@@ -1,16 +1,9 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+a = input("ВВедите коэфиценты")
+a = input("ВВедите коэфиценты")
+a = input("ВВедите коэфиценты")
+d = get_math_text(a, b, c)
+if d = None:
+    print("Нет корней")
+else:
+    print("x1 = ", x1)
+    print("X2 = ", X2)
